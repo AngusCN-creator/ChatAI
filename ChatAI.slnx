@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChatAI.csproj" />
+  <Project Path="ChatControl/ChatControl.csproj" />
+</Solution>

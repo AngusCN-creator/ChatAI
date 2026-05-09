@@ -1,0 +1,15 @@
+G:\程序集\ChatControl\bin\Release\net10.0-windows\ChatControl.deps.json
+G:\程序集\ChatControl\bin\Release\net10.0-windows\ChatControl.dll
+G:\程序集\ChatControl\bin\Release\net10.0-windows\ChatControl.pdb
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.Controls.SessionListUC.resources
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.Controls.UCAvatarBox.resources
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.csproj.GenerateResource.cache
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.GeneratedMSBuildEditorConfig.editorconfig
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.AssemblyInfoInputs.cache
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.AssemblyInfo.cs
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.csproj.CoreCompileInputs.cache
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.dll
+G:\程序集\ChatControl\obj\Release\net10.0-windows\refint\ChatControl.dll
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.pdb
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ref\ChatControl.dll
+G:\程序集\ChatControl\obj\Release\net10.0-windows\ChatControl.Controls.ChatMainControl.resources
